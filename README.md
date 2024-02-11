@@ -94,15 +94,6 @@ This document provides a detailed overview of each screen within the Flutter app
 - **Purpose**: Manages promotions or discounts.
 - **Experience**: Highlights special offers, encouraging user engagement and purchases.
 
-## Getting Started
-
-To get started with this project:
-
-1. Ensure Flutter is installed on your system.
-2. Clone the repository to your local machine.
-3. Run `flutter pub get` to install dependencies.
-4. Launch the app with `flutter run`.
-
 ## Contributions
 
 We welcome contributions to improve the app. Please fork the repo, make your changes, and submit a pull request.
